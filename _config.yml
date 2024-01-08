@@ -23,7 +23,7 @@ email:
 description: Independent game development studio.  Creators of Adventureverse. # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "steve-ig.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://steve-ig.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
